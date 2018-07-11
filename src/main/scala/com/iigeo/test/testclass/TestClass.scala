@@ -32,6 +32,8 @@ object TestClass {
     val iIgeo2=new IIgeo2(12,"xiaoyang")
     println(iIgeo2.name+":"+iIgeo2.genner)
 
+
+
   }
 
 }
