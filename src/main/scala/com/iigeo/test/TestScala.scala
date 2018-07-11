@@ -1,3 +1,5 @@
+package com.iigeo.test
+
 object TestScala {
 
   def main(args: Array[String]): Unit = {

@@ -1,3 +1,4 @@
+package com.iigeo.test
 
 /**
   * scala 函数使用
